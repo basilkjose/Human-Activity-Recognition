@@ -25,3 +25,17 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
+## Feature_Engineering
+
+From the raw 9 time series data, we derived almost 561 new features(it is provided by itself ) ,so we no need to generate new features
+
+## Modeling
+
+We used two types of approach for modeling because in our hand we have two sets of data 
+ 1) Raw data
+ 2) Feature Engineered data
+For feature engineered data we use classical machine learning algorithms (classification problem).In raw time series data we use LSTM.
+
+After modelling we made a conclusion that with human engineered faetures(561 features) we got almost 96% accuracy.For raw data(without any feature engineering) lstm modeling we almost got 91% accuracy this because of deep learning models can automatically generate features.
+
+
