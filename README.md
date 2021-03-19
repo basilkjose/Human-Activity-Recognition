@@ -1,6 +1,6 @@
 # Human Activity Recognition
 
-[<img target="_blank" src="https://imgur.com/yIyk4kb.jpg" width=900>]
+<img width="100%" src="https://www.androidhive.info/wp-content/uploads/2017/12/android-user-activity-recognition-still-walking-running-driving.jpg">
 
 ## Table of Content
   * [Overview](#overview)
