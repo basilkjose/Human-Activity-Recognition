@@ -39,4 +39,8 @@ For feature engineered data we use classical machine learning algorithms (classi
 
 After modelling we made a conclusion that with human engineered faetures(561 features) we got almost 96% accuracy.For raw data(without any feature engineering) lstm modeling we almost got 91% accuracy this because of deep learning models can automatically generate features.
 
+##To_Do
+
+* Today we can also use heart rate sensor data.
+* Convert this model into a andriod smart app taht can detect activities
 
