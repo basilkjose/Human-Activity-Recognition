@@ -1,5 +1,7 @@
 # Human Activity Recognition
 
+[<img target="_blank" src="https://imgur.com/yIyk4kb.jpg" width=900>]
+
 ## Table of Content
   * [Overview](#overview)
   * [Data](#data)
